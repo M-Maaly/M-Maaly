@@ -7,7 +7,7 @@ Software Engineer
 Code is my life!!
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [My website]([http://g2549dfdr](https://m-maaly.github.io/Personal-Website/))
+* 🖥️  See my portfolio at [My website]((https://m-maaly.github.io/Personal-Website/))
 * ✉️  You can contact me at [mo7amedm0stafa127@gmail.com](mailto:mo7amedm0stafa127@gmail.com)
 * 🚀  I'm currently working on [Maaly](http://f1dvf51v1d)
 * 🧠  I'm learning C++, Python, C, JS, React
