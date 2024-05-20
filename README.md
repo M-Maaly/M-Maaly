@@ -38,3 +38,7 @@ _____________________________________
 <a href="http://www.github.com/M-Maaly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Maaly&stroke=6366f1&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
 <a href="https://github.com/M-Maaly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Maaly&langs_count=10&title_color=0891b2&text_color=6366f1&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mubashir1837&custom_title=Mubashir%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
