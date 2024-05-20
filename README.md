@@ -41,4 +41,3 @@ _____________________________________
 
 
 
-![M-Maaly](https://github-readme-activity-graph.vercel.app/graph?)
