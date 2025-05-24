@@ -39,5 +39,8 @@ _____________________________________
 
 <a href="https://github.com/M-Maaly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Maaly&langs_count=10&title_color=0891b2&text_color=6366f1&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://github.com/M-Maaly" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Maaly&langs_count=10&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=6366f1&icon_color=14b8a6&custom_title=Top%20Languages&exclude_repo=repo1,repo2" alt="Top Languages" />
+</a>
 
 
