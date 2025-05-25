@@ -9,10 +9,9 @@ Code is my life!!
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [My website](https://m-maaly.github.io/Personal-Website/)
 * ✉️  You can contact me at [mo7amedm0stafa127@gmail.com](mailto:mo7amedm0stafa127@gmail.com)
-* 🚀  I'm currently working on React, bootstrap
-* 🧠  I'm learning C++, Python, C, JS, React
-* 🤝  I'm open to collaborating on Other drone projects!
-* ⚡  I have a cat named Kamr El-din
+* 🚀  I'm currently working on Next.js, Node.js
+* 🧠  I'm learned C++, Python, C, JS, React, Tailwind
+* 🤝  I'm open to collaborating on many projects!
 
 <a href="https://www.github.com/M-Maaly" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/M-Maaly?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
