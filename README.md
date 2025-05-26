@@ -32,6 +32,18 @@ _____________________________________
 
 <b>My GitHub Stats</b>
 
+###
+
+<!-- Stats generales -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=M-Maaly&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Maaly&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+  </a>
+</div>
+
+###
+
 <a href="http://www.github.com/M-Maaly"><img src="https://github-readme-stats.vercel.app/api?username=M-Maaly&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="M-Maaly's GitHub stats" /></a>
 <a href="http://www.github.com/M-Maaly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Maaly&stroke=6366f1&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
@@ -39,5 +51,4 @@ _____________________________________
 <a href="https://github.com/M-Maaly" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Maaly&langs_count=10&hide_border=true&bg_color=0f172a&title_color=0891b2&text_color=6366f1&icon_color=14b8a6&custom_title=Top%20Languages&exclude_repo=repo1,repo2" alt="All Languages" />
 </a>
-
 
